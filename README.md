@@ -13,3 +13,7 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Utilising <i>Cyberchef</i> for decoding
 
 ## Day 3: Even if I wanted to go, their vulnerabilities wouldn't allow it.
++ More <i>Elastic</i> SIEM log analysis
++ Introduction to <i>RCE</i> vulnerability exploitation via file upload
+
+## Day 4: I’m all atomic inside!
