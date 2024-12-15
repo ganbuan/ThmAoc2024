@@ -17,3 +17,8 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Introduction to remote code execution (RCE) vulnerability exploitation via file upload
 
 ## Day 4: I’m all atomic inside!
++ Introduced to the <i>MITRE ATT&CK</i> framework
++ Used the <i>Atomic Red Team</i> library test cases
++ Used information from <i>Sysmon</i> event log to create detection rules
+
+## Day 5: SOC-mas XX-what-ee?
