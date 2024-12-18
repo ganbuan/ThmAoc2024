@@ -22,3 +22,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Used information from <i>Sysmon</i> event log to create detection rules
 
 ## Day 5: SOC-mas XX-what-ee?
++ Introduced to extensible markup language (XML) and XML external entity (XXE)
++ Used <i>Burpsuite</i> for intercepting requests
++ Executed an XXE injection attack
+
+## Day 6: If I can't find a nice malware to use, I'm not going.
+
