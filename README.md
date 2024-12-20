@@ -34,5 +34,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Used YARA rules on Sysmon logs for data gathering and investigation
 
 ## Day 7: Oh, no. I'M SPEAKING IN CLOUDTRAIL!
++ Introduced to <i>CloudWatch, CloudTrail,</i> & <i>JQ</i> for AWS log analysis
+
+## Day 8: Shellcodes of the world, unite!
+
 
 
