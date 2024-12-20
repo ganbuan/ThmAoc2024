@@ -27,4 +27,12 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Executed an XXE injection attack
 
 ## Day 6: If I can't find a nice malware to use, I'm not going.
++ Introduced to the concept of sandboxing
++ Learned about <i>YARA</i>, a tool used to identify and classify malware based on code patterns
++ Learned about the use of obfuscation as a malware evasion technique
++ Introduced to <i>Floss</i>, a malware analysis tool that reveals concealed details
++ Used YARA rules on Sysmon logs for data gathering and investigation
+
+## Day 7: Oh, no. I'M SPEAKING IN CLOUDTRAIL!
+
 
