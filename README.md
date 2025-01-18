@@ -37,6 +37,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Introduced to <i>CloudWatch, CloudTrail,</i> & <i>JQ</i> for AWS log analysis
 
 ## Day 8: Shellcodes of the world, unite!
++ Introduced to <i>shellcodes</i>
++ Generated shellcodes using <i>msfvenom</i> tool, while using <i>nc</i> to listen to a port
 
+## Day 9: Nine o'clock, make GRC fun, tell no one. 
 
 
