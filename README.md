@@ -45,6 +45,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Attempted a third-party risk assessment
 
 ## Day 10: Day 10: He had a brain full of macros, and had shells in his soul. 
++ Learned about <i>macros</i> and how they can be used for phishing attacks
++ Used <i>Metasploit Framework</i> to create a document to establish a reverse tcp connection, which is sent via email attachment
 
+## Day 11: If you'd like to WPA, press the star key!
 
 
