@@ -49,5 +49,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Used <i>Metasploit Framework</i> to create a document to establish a reverse tcp connection, which is sent via email attachment
 
 ## Day 11: If you'd like to WPA, press the star key!
++ Learned about WiFi attacks and executed <i>WPA/WPA2 cracking</i>
++ Used <i>aireplay-ng</i> tool to send deauthentication packets, force a reconnection, capture the WPA 4-way handshake, and performed a dictionary attack to bruteforce the PSK
+
+## Day 12: Day 12: If I can’t steal their money, I’ll steal their joy!
 
 
