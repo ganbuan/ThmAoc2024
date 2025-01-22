@@ -52,6 +52,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Learned about WiFi attacks and executed <i>WPA/WPA2 cracking</i>
 + Used <i>aireplay-ng</i> tool to send deauthentication packets, force a reconnection, capture the WPA 4-way handshake, and performed a dictionary attack to bruteforce the PSK
 
-## Day 12: Day 12: If I can’t steal their money, I’ll steal their joy!
+## Day 12: If I can’t steal their money, I’ll steal their joy!
++ Introduced to <i>web timing attacks</i> such as <i>information disclosures</i> and <i>race conditions</i>
++ Exploited a web application's <i>Time-of-Check to Time-of-Use (TOCTOU)</i> flaw by duplicating packet requests and sending them in parallel using Burp Suite
 
+## Day 13: It came without buffering! It came without lag!
 
