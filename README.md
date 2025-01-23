@@ -65,4 +65,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Exploited a web application's certificate vulnerability using a man-in-the-middle attack, routing web traffic to my machine and used Burp Suite to listen in on requests
 
 ## Day 15: Be it ever so heinous, there's no place like Domain Controller. 
++ Learned about <i>Active Directory</i> and common attacks such as <i>golden ticket attack, pass-the-hash, kerberoasting, malicious GPOs, </i> and <i>skeleton key attack</i>
++ Got familiar with common event IDs in Windows <i>Event Viewer</i> including 4624 (logon success), 4625 (logon failure), 4672 (SeTcbPrivilege), and 4768 (TGT ticket request)
++ Investigated AD controller, audited users, reviewed PowerShell history and logs
+
+## Day 16: The Wareville’s Key Vault grew three sizes that day.
 
