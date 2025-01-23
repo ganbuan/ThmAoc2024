@@ -61,4 +61,8 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Exploited a car tracking web application via <i>message manipulation</i> using Burp Suite
 
 ## Day 14: Even if we're horribly mismanaged, there'll be no sad faces on SOC-mas! 
++ Learned about <i>certificates</i>, particularly the vulnerabilities posed by <i>self-signed certificates</i>
++ Exploited a web application's certificate vulnerability using a man-in-the-middle attack, routing web traffic to my machine and used Burp Suite to listen in on requests
+
+## Day 15: Be it ever so heinous, there's no place like Domain Controller. 
 
