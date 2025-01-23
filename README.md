@@ -57,4 +57,8 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Exploited a web application's <i>Time-of-Check to Time-of-Use (TOCTOU)</i> flaw by duplicating packet requests and sending them in parallel using Burp Suite
 
 ## Day 13: It came without buffering! It came without lag!
++ Learned about <i>WebSocket</i> and its possible vulnerabilities
++ Exploited a car tracking web application via <i>message manipulation</i> using Burp Suite
+
+## Day 14: Even if we're horribly mismanaged, there'll be no sad faces on SOC-mas! 
 
