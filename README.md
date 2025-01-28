@@ -71,3 +71,10 @@ My journal entries while working through THM's Advent of Cyber 2024
 
 ## Day 16: The Wareville’s Key Vault grew three sizes that day.
 
+## Day 17: He analyzed and analyzed till his analyzer was sore!
++ Introduce to <i>Splunk</i>
++ Learned about parsing and manipulating custom log data
++ Investigated CCTV feed logs to identify the adversarial insider
+
+## Day 18: I could use a little AI interaction!
+
