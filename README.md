@@ -81,4 +81,8 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Performed a prompt injection to test for blind RCEs, which led to establishing a reverse shell connection
 
 ## Day 19: I merely noticed that you’re improperly stored, my dear secret!
++ Learned about game hacking and the difference between executable and library files (i.e. .so extension files)
++ Introduced to <i>Frida</i> as a tool to analyse, modify, and interact with running applications, such as games
++ Created and edited handler files to manipulate in-game functions
 
+## Day 20: If you utter so much as one packet… 
