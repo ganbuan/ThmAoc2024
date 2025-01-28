@@ -77,4 +77,8 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Investigated CCTV feed logs to identify the adversarial insider
 
 ## Day 18: I could use a little AI interaction!
++ Learned about common vulnerabilities with AI models such as <i>data poisoning, sensitive data disclosure, </i>and <i>prompt injection</i>
++ Performed a prompt injection to test for blind RCEs, which led to establishing a reverse shell connection
+
+## Day 19: I merely noticed that you’re improperly stored, my dear secret!
 
