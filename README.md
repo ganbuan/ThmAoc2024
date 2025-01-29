@@ -92,3 +92,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Used Cyberchef again to decrypt exfiltrated data
 
 ##  Day 21: HELP ME...I'm REVERSE ENGINEERING! 
++ Learned about <i>binaries</i> and how they can be reverse engineered by <i>disassembly</i> or <i>decompiling</i>
++ Learned that binaries can be multi-stage, meaning multiple binaries that do different actions can be performed instead of one entire attack action
++ Used <i>PEStudio</i> to list important aspects about a file such as hash form, architecture type, signature of language used to compile, and other indicators
++ Used <i>ILSpy</i> to access the code on the binary
+
+## Day 22: It's because I'm kubed, isn't it?
