@@ -86,3 +86,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Created and edited handler files to manipulate in-game functions
 
 ## Day 20: If you utter so much as one packet… 
++ Introduced to <i>Wireshark</i> as a network traffic analysis tool
++ Learned about <i>C2 communication</i>, where a command and control server (C2) deploys a secret agent (payload) that obey instructions such as execute malicious commands, exfiltrate files, etc
++ Learned about <i>beacons</i>, which are packets sent at regular intervals
++ Used Cyberchef again to decrypt exfiltrated data
+
+##  Day 21: HELP ME...I'm REVERSE ENGINEERING! 
