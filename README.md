@@ -107,3 +107,5 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Used <i>John the Ripper</i> to crack password hashes and gain access to a password-protected document
 
 ## Day 24: You can’t hurt SOC-mas, Mayor Malware!
++ Learned about <i>Message Queuing Telemetry Transport (MQTT)</i> protocols used in IoT
++ Used Wireshark to analyse MQTT traffic
