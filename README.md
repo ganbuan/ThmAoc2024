@@ -103,4 +103,7 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Investigated audit logs using K8s
 
 ## Day 23: You wanna know what happens to your hashes?
++ Learned about the use of <i>hashing</i> in passwords
++ Used <i>John the Ripper</i> to crack password hashes and gain access to a password-protected document
 
+## Day 24: You can’t hurt SOC-mas, Mayor Malware!
