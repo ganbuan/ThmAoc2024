@@ -70,6 +70,8 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Investigated AD controller, audited users, reviewed PowerShell history and logs
 
 ## Day 16: The Wareville’s Key Vault grew three sizes that day.
++ Learned about <i>Azure</i>, a Cloud Service Provider (CSP) by Microsoft, as well as its services like Azure Key Vault and Microsoft Entra ID
++ Used the Azure Cloud Shell
 
 ## Day 17: He analyzed and analyzed till his analyzer was sore!
 + Introduce to <i>Splunk</i>
