@@ -98,3 +98,9 @@ My journal entries while working through THM's Advent of Cyber 2024
 + Used <i>ILSpy</i> to access the code on the binary
 
 ## Day 22: It's because I'm kubed, isn't it?
++ Learned about <i>Kubernetes</i>, which is a container orchestration system used to manage microservices
++ Learned about the basics of <i>Digital Forensics and Incident Response (DFIR)</i>
++ Investigated audit logs using K8s
+
+## Day 23: You wanna know what happens to your hashes?
+
